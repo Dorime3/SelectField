@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;EACI","file":"script.75da7f30.css","sourceRoot":"..","sourcesContent":[".app {\r\n    padding-top: 5rem;\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n\r\n.wrap {\r\n    width: 500px;\r\n}"]}
